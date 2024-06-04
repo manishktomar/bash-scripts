@@ -1,7 +1,7 @@
 #  Bash Script for Installation on Ubuntu 
 
 ## Project Description:
-In this project, I developed write Bash Script for Java, Apache, Tomcat and Nginx on Ubuntu. The primary goal of this project is to automated app installation and deployment on a Ubuntu OS.
+In this project, I developed Bash Script for Java, Apache, Tomcat and Nginx on Ubuntu. The primary goal of this project is to automated app installation and deployment on a Ubuntu OS.
 
 ## Overview:
 
